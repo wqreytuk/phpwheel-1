@@ -4023,25 +4023,20 @@ void CMFCApplication1Dlg::OnBnClickedOk30()
 	{
 		CStdioFile file(m_path + L"\\apache\\conf\\vhosts.conf", CFile::modeRead);
 		while (file.ReadString(strLine)) {
-			/*char temp_string[256];
+			char temp_string[256];
 			strcpy_s(temp_string, CStringA(strLine).GetString());
 			if (temp_string[0] == '#' || temp_string[0] == '\n')
 			{
 				continue;
 			}
-			if (strLine.Find(L"<VirtualHost _default_:80>") != -1) {
-				arrLines += strLine;
-				arrLines += L"\n";
-				file.ReadString(strLine);
-				strLine = L"DocumentRoot \"C:\\fuck\\root\"";
-				arrLines += strLine;
-				arrLines += L"\n";
-				file.ReadString(strLine);
-				strLine = L"<Directory \"C:\\fuck\\root\">";
-				arrLines += strLine;
-				arrLines += L"\n";
+			if (strLine.Find(L"<VirtualHost "+ vhost_ip +L">") != -1) {
+				while (file.ReadString(strLine)) {
+					if (strLine.Find(L"</VirtualHost>") != -1) {
+						break;
+					}
+				}
 				continue;
-			}*/
+			}
 			arrLines += strLine;
 			arrLines += L"\n";
 		}
