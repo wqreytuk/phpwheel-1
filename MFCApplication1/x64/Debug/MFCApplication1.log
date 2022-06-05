@@ -1,10 +1,4 @@
-﻿  MFCApplication1Dlg.cpp
-C:\Users\x\Downloads\tmp\phpwheel-master\MFCApplication1\MFCApplication1Dlg.cpp(1964,8): warning C4101: “dwWaitTime”: 未引用的局部变量
-C:\Users\x\Downloads\tmp\phpwheel-master\MFCApplication1\MFCApplication1Dlg.cpp(1962,8): warning C4101: “dwBytesNeeded”: 未引用的局部变量
-C:\Users\x\Downloads\tmp\phpwheel-master\MFCApplication1\MFCApplication1Dlg.cpp(1960,25): warning C4101: “ssp”: 未引用的局部变量
-C:\Users\x\Downloads\tmp\phpwheel-master\MFCApplication1\MFCApplication1Dlg.cpp(2012,18): warning C4101: “ssStatus”: 未引用的局部变量
-C:\Users\x\Downloads\tmp\phpwheel-master\MFCApplication1\MFCApplication1Dlg.cpp(3995,9): warning C4101: “temp_string”: 未引用的局部变量
-LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+﻿LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
 MFCApplication1.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
 x64\Debug\Share.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
 LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library

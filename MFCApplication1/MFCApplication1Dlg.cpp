@@ -3075,7 +3075,7 @@ if(current_php_version == L"php-5.2.17")return false;if( current_php_version == 
 }
 void CMFCApplication1Dlg::OnBnClickedCancel2()
 {
-	ShellExecute(0, NULL, L"https://gitee.com/wochinijiamile/phpwheel", NULL, NULL, SW_SHOWDEFAULT);
+	ShellExecute(0, NULL, L"https://github.com/motherfucker12138/phpwheel/issues/new", NULL, NULL, SW_SHOWDEFAULT);
 }
 
 //将composer命令放到日志框中
@@ -3598,8 +3598,8 @@ void CMFCApplication1Dlg::OnBnClickedOk20()
 
 void CMFCApplication1Dlg::OnBnClickedOk21()
 {
-	// TODO: 在此添加控件通知处理程序代码
-	ShellExecute(0, NULL, L"https://download.nus.edu.sg/mirror/mariadb//mariadb-10.6.4/winx64-packages/mariadb-10.6.4-winx64.msi", NULL, NULL, SW_SHOWDEFAULT);
+	// TODO: 在此添加控件通知处理程序代码https://archive.mariadb.org//mariadb-10.6.4/winx64-packages/mariadb-10.6.4-winx64.msi
+	ShellExecute(0, NULL, L"https://archive.mariadb.org//mariadb-10.6.4/winx64-packages/mariadb-10.6.4-winx64.msi", NULL, NULL, SW_SHOWDEFAULT);
 }
 
 

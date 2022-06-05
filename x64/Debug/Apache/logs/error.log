@@ -2200,3 +2200,48 @@ AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
 AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
 [Sun Jun 05 17:46:50.970250 2022] [mpm_winnt:notice] [pid 31464:tid 432] AH00354: Child: Starting 150 worker threads.
 [Sun Jun 05 17:46:52.787975 2022] [mpm_winnt:notice] [pid 23472:tid 624] AH00364: Child: All worker threads have exited.
+AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
+[Sun Jun 05 22:44:09.432979 2022] [core:warn] [pid 6432:tid 592] AH00098: pid file C:/Users/x/Downloads/tmp/phpwheel-master/x64/Debug/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jun 05 22:44:09.624467 2022] [mpm_winnt:notice] [pid 6432:tid 592] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 configured -- resuming normal operations
+[Sun Jun 05 22:44:09.624467 2022] [mpm_winnt:notice] [pid 6432:tid 592] AH00456: Server built: Jul  1 2016 16:42:20
+[Sun Jun 05 22:44:09.624467 2022] [core:notice] [pid 6432:tid 592] AH00094: Command line: 'C:\\Users\\x\\Downloads\\tmp\\phpwheel-master\\x64\\Debug\\Apache\\bin\\httpd.exe -d C:/Users/x/Downloads/tmp/phpwheel-master/x64/Debug/Apache'
+[Sun Jun 05 22:44:09.628456 2022] [mpm_winnt:notice] [pid 6432:tid 592] AH00418: Parent: Created child process 7268
+AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
+AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
+[Sun Jun 05 22:44:10.589899 2022] [mpm_winnt:notice] [pid 7268:tid 604] AH00354: Child: Starting 150 worker threads.
+[Sun Jun 05 22:44:14.865106 2022] [mpm_winnt:crit] [pid 7268:tid 604] AH02538: Child: Parent process exited abruptly. Child process is ending
+AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
+[Sun Jun 05 22:44:15.469096 2022] [core:warn] [pid 29852:tid 528] AH00098: pid file C:/Users/x/Downloads/tmp/phpwheel-master/x64/Debug/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jun 05 22:44:15.598362 2022] [mpm_winnt:notice] [pid 29852:tid 528] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 configured -- resuming normal operations
+[Sun Jun 05 22:44:15.598362 2022] [mpm_winnt:notice] [pid 29852:tid 528] AH00456: Server built: Jul  1 2016 16:42:20
+[Sun Jun 05 22:44:15.598362 2022] [core:notice] [pid 29852:tid 528] AH00094: Command line: 'C:\\Users\\x\\Downloads\\tmp\\phpwheel-master\\x64\\Debug\\Apache\\bin\\httpd.exe -d C:/Users/x/Downloads/tmp/phpwheel-master/x64/Debug/Apache'
+[Sun Jun 05 22:44:15.600357 2022] [mpm_winnt:notice] [pid 29852:tid 528] AH00418: Parent: Created child process 15012
+AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
+AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
+[Sun Jun 05 22:44:16.299912 2022] [mpm_winnt:notice] [pid 15012:tid 460] AH00354: Child: Starting 150 worker threads.
+[Sun Jun 05 22:44:16.884610 2022] [mpm_winnt:notice] [pid 7268:tid 604] AH00364: Child: All worker threads have exited.
+[Sun Jun 05 22:45:09.016140 2022] [mpm_winnt:crit] [pid 15012:tid 460] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sun Jun 05 22:45:11.021888 2022] [mpm_winnt:notice] [pid 15012:tid 460] AH00364: Child: All worker threads have exited.
+AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
+[Sun Jun 05 22:45:25.531170 2022] [core:warn] [pid 31280:tid 568] AH00098: pid file C:/Users/x/Downloads/tmp/phpwheel-master/x64/Debug/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jun 05 22:45:25.644424 2022] [mpm_winnt:notice] [pid 31280:tid 568] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 configured -- resuming normal operations
+[Sun Jun 05 22:45:25.644424 2022] [mpm_winnt:notice] [pid 31280:tid 568] AH00456: Server built: Jul  1 2016 16:42:20
+[Sun Jun 05 22:45:25.644424 2022] [core:notice] [pid 31280:tid 568] AH00094: Command line: 'C:\\Users\\x\\Downloads\\tmp\\phpwheel-master\\x64\\Debug\\Apache\\bin\\httpd.exe -d C:/Users/x/Downloads/tmp/phpwheel-master/x64/Debug/Apache'
+[Sun Jun 05 22:45:25.650729 2022] [mpm_winnt:notice] [pid 31280:tid 568] AH00418: Parent: Created child process 29784
+AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
+AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
+[Sun Jun 05 22:45:26.448237 2022] [mpm_winnt:notice] [pid 29784:tid 500] AH00354: Child: Starting 150 worker threads.
+[Sun Jun 05 22:45:36.567357 2022] [mpm_winnt:crit] [pid 29784:tid 500] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sun Jun 05 22:45:38.598883 2022] [mpm_winnt:notice] [pid 29784:tid 500] AH00364: Child: All worker threads have exited.
+AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
+[Sun Jun 05 22:45:43.795413 2022] [core:warn] [pid 22932:tid 616] AH00098: pid file C:/Users/x/Downloads/tmp/phpwheel-master/x64/Debug/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jun 05 22:45:43.905650 2022] [mpm_winnt:notice] [pid 22932:tid 616] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9 configured -- resuming normal operations
+[Sun Jun 05 22:45:43.905650 2022] [mpm_winnt:notice] [pid 22932:tid 616] AH00456: Server built: Jul  1 2016 16:42:20
+[Sun Jun 05 22:45:43.905650 2022] [core:notice] [pid 22932:tid 616] AH00094: Command line: 'C:\\Users\\x\\Downloads\\tmp\\phpwheel-master\\x64\\Debug\\Apache\\bin\\httpd.exe -d C:/Users/x/Downloads/tmp/phpwheel-master/x64/Debug/Apache'
+[Sun Jun 05 22:45:43.913670 2022] [mpm_winnt:notice] [pid 22932:tid 616] AH00418: Parent: Created child process 36640
+AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
+AH00112: Warning: DocumentRoot [C:/Users/x/Desktop/work/v7] does not exist
+[Sun Jun 05 22:45:44.626999 2022] [mpm_winnt:notice] [pid 36640:tid 628] AH00354: Child: Starting 150 worker threads.
+[Sun Jun 05 22:48:34.389369 2022] [mpm_winnt:crit] [pid 36640:tid 628] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sun Jun 05 22:48:36.399992 2022] [mpm_winnt:notice] [pid 36640:tid 628] AH00364: Child: All worker threads have exited.
+[Sun Jun 05 22:48:44.852922 2022] [fcgid:error] [pid 36640:tid 844] FastCGI process 34028 still did not exit, terminating forcefully

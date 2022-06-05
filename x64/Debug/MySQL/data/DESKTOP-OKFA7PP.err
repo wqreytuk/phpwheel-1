@@ -2264,3 +2264,39 @@ InnoDB: of MySQL. Please close it to get rid of this error.
 InnoDB: The error means that another program is using InnoDB's files.
 InnoDB: This might be a backup or antivirus software or another instance
 InnoDB: of MySQL. Please close it to get rid of this error.
+220605 22:44:15 [Note] Plugin 'FEDERATED' is disabled.
+220605 22:44:15 InnoDB: The InnoDB memory heap is disabled
+220605 22:44:15 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220605 22:44:15 InnoDB: Compressed tables use zlib 1.2.3
+220605 22:44:15 InnoDB: Initializing buffer pool, size = 47.0M
+220605 22:44:15 InnoDB: Completed initialization of buffer pool
+220605 22:44:15 InnoDB: highest supported file format is Barracuda.
+220605 22:44:15  InnoDB: Waiting for the background threads to start
+220605 22:44:16 InnoDB: 5.5.53 started; log sequence number 1595685
+220605 22:44:16 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+220605 22:44:16 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+220605 22:44:16 [Note] Server socket created on IP: '0.0.0.0'.
+220605 22:44:28 [Note] Plugin 'FEDERATED' is disabled.
+220605 22:44:28 InnoDB: The InnoDB memory heap is disabled
+220605 22:44:28 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220605 22:44:28 InnoDB: Compressed tables use zlib 1.2.3
+220605 22:44:28 InnoDB: Initializing buffer pool, size = 47.0M
+220605 22:44:28 InnoDB: Completed initialization of buffer pool
+220605 22:44:28 InnoDB: highest supported file format is Barracuda.
+220605 22:44:28  InnoDB: Waiting for the background threads to start
+220605 22:44:30 InnoDB: 5.5.53 started; log sequence number 1595685
+220605 22:44:30 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+220605 22:44:30 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+220605 22:44:30 [Note] Server socket created on IP: '0.0.0.0'.
+220605 22:45:32 [Note] Plugin 'FEDERATED' is disabled.
+220605 22:45:32 InnoDB: The InnoDB memory heap is disabled
+220605 22:45:32 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220605 22:45:32 InnoDB: Compressed tables use zlib 1.2.3
+220605 22:45:32 InnoDB: Initializing buffer pool, size = 47.0M
+220605 22:45:32 InnoDB: Completed initialization of buffer pool
+220605 22:45:32 InnoDB: highest supported file format is Barracuda.
+220605 22:45:32  InnoDB: Waiting for the background threads to start
+220605 22:45:33 InnoDB: 5.5.53 started; log sequence number 1595685
+220605 22:45:33 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+220605 22:45:33 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+220605 22:45:33 [Note] Server socket created on IP: '0.0.0.0'.
